@@ -1,0 +1,49 @@
+En la década de los 90 se unieron dos proyectos: el proyecto GNU de Richard Stallman y el proyecto Linux de Linus Torvalds. Stallman fue el creador del movimiento de software libre, buscaba crear un sistema operativo de software libre basado en Unix. Sin embargo, le faltaba el kernel, el núcleo del sistema operativo que se conecta con el hardware.
+
+Por su parte, Torvalds crea el kernel sin grandes pretensiones, ya que de haber estado listo el proyecto GNU, él no hubiera creado el kernel. Una vez juntos ambos proyectos, nace el primer sistema operativo libre basado en Unix: Linux.
+
+Como es un sistema operativo de software libre y open source, podemos crear diferentes versiones del sistema operativo. Es decir, podemos usar el kernel y los paquetes del proyecto GNU, personalizarlos y crear así distintos sabores de Linux, mejor conocidos como distribuciones o distros.
+
+Aquí te cuento cuáles son las distribuciones Linux más importantes y más usadas:
+Debian
+
+Es una de las distribuciones más confiables. La mayoría de las distribuciones Linux son derivadas de Debian, ¿por qué? Porque es una de las más antiguas y es muy estable. Si creas una distribución basada en Debian podrás contar con todas las actualizaciones de seguridad, rendimiento y compatibilidad que trae el sistema.
+
+Ubuntu
+
+Esta distro está basada en Debian y es la más usada en el mundo. Nace con el objetivo de llevar Linux a todo el mundo, ya que anteriormente Linux era un sistema operativo difícil de manejar y requería conocimientos técnicos. Es muy usada en escritorio y servidores.
+
+Linux Mint
+
+Está basada en Ubuntu y está orientada a un público principiante. De este modo, esta distro busca acercar Linux aún más a la comunidad general brindando una experiencia parecida a Windows. Si usas esta distro podrás ver una interfaz muy similar a la de Windows.
+
+Red Hat
+
+Si creías que por ser open source no genera dinero, estás equivocado. Apenas en el 2019 Red Hat facturó más 3 mil millones de dólares con servicios basados en Linux. Si quieres usar la versión para empresas: Red Hat Enterprise Linux, debes pagar por ella. Entre sus servicios brinda soluciones personalizadas a través de un gran soporte. Es por esto que es la distro más importante para el entorno corporativo.
+
+Fedora
+
+Es una distro basada en Red Hat para el usuario final. Usa el mismo manejador de paquetes y es gratuita. Si bien Fedora está desarrollada por una comunidad libre, Red Hat auspicia esta distro y contribuye a las mejoras del kernel.
+
+CentOS
+
+Está basada en Red Hat, es gratuita y está destinada a la comunidad. Se hizo popular en los servidores porque brindaba la estabilidad y confiabilidad de Red Hat, pero sin tener que pagar.
+
+SUSE
+
+Suse Enterprise Linux es una de las distribuciones más importantes y más antiguas de Linux. Así como Red Hat, esta distro está orientada al mundo corporativo. También ofrece una distro para el usuario final llamada Open Suse.
+
+Arch Linux
+
+Esta distribución Linux no tiene interfaz gráfica, por lo que debes configurar las herramientas que en otras distros ya vienen por defecto. Aquí nos preguntamos, ¿quién quiere usar un sistema operativo así de limpio? La respuesta es: usuarios avanzados que tienen un perfil más técnico y quieren probar configuraciones y construir sus propios escenarios.
+
+Manjaro
+
+Está basada en Arch Linux, tiene interfaz gráfica, un manejador de paquetes sencillos y orientada para el usuario general. Tiene la misma característica rolling release de Arch Linux, por lo que siempre está actualizada.
+
+Kali
+
+Esta distribución hace que te sientas hacker con solo tenerla en tu equipo, no hace falta que sepas nada del mundo del hacking. Esta distro tiene preinstaladas muchas herramientas para los profesionales de la seguridad informática y la informática forense. Por ejemplo: herramientas de pentesting, para analizar sistemas, recuperar archivos, etc. Si quieres comprender el mundo de la seguridad informática, Kali es la mejor opción para ti.
+
+Hasta aquí llega la lista de las distribuciones Linux más populares y más usadas en el mundo. Así que si llamó mucho tu atención y quieres aprender a usar Linux, sus herramientas y todas las opciones que te ofrece, ¡no dudes en ver nuestro nuevo curso de Linux desde cero! Como desarrollador, es casi una obligación que conozcas Linux.
+
